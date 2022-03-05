@@ -32,7 +32,7 @@
 * La vista de VENTAS, contiene una tabla con todas las ventas, debe permitir editar una venta, y si edita la cantidad del producto se debe actualizar la cantidad en Stock, debe tener un filtro por fecha y un buscador con autocompletamiento por cliente.
 * CONTABILIDAD, debe tener unas gráficas donde se muestre las ventas, las inversiones y los resultados finales del mes, debe tener un selector por fechas.
 
-#Detalles Técnicos
+# Detalles Técnicos
 * Sólo se puede acceder al sistema si estás loggeado.
 * Sólo un usuario loggeado puede crear un usuario nuevo.
 * Para la autenticación utiliza Identity y aplica Scaffolder para que se autogenere.
