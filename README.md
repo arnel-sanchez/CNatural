@@ -40,3 +40,4 @@
 * Cuando se reporta un venta o una compra se le debe enviar un email a los demás admins reportando de los cambios.
 * Debes utilizar PostgreSQL como motor de base de datos.
 * Si te decides a hacerlo como API Rest te recomiendo usar una plantilla React(te la puedo dar) que te será muy cómodo el frontend, pero complejizas un poco la autenticación porque vas a tener que hacerla a mano, si vas a hacer una Aplicación Web se te va a complicar un poco el frontend. Puedes meterle coco a eso como mejor te sea.
+* Para automatizar eventos y que se hagan a una hora determinada debes hacerlo con la librería Quartz.
